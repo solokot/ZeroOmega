@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Russian (SwitchyOmega)\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-11-21 02:34+0200\n"
-"PO-Revision-Date: 2026-05-19 11:25+0300\n"
+"PO-Revision-Date: 2026-08-25 10:25+0300\n"
 "Last-Translator: solokot <solokot@gmail.com>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/switchyomega/"
 "main/ru/>\n"
@@ -658,6 +658,12 @@ msgstr "Использовать прокси выше для всех прот�
 
 msgid "options_proxy_expand"
 msgstr "Показать расширенный вид"
+
+msgid "options_proxy_proxyDNS"
+msgstr "Отправлять запросы DNS через SOCKS-прокси"
+
+msgid "options_proxy_proxyDNSHelp"
+msgstr "Эту функцию следует отключать при использовании DNS-over-HTTPS в браузерах на базе Firefox."
 
 msgid "options_group_bypassList"
 msgstr "Список исключений"
